@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6m13UvmMt6V_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Personal Brand: Maximizing Personal Impact</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Personal_Brand:_Maximizing_Personal_Impact_ORG">
+    <organization identifier="Personal_Brand:_Maximizing_Personal_Impact_ORG">
+      <title>Personal Brand: Maximizing Personal Impact</title>
+      <item identifier="Cybersecurity_V3_SCO" isvisible="true" identifierref="__6m13UvmMt6V_course_id_RES">
+        <title>Personal Brand: Maximizing Personal Impact</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6m13UvmMt6V_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ylVOsv19tI.png" />
+      <file href="story_content/5vfXLezlR4h_44100_48_0.mp3" />
+      <file href="mobile/6XxeMkav7Ny.png" />
+      <file href="mobile/6H5ZlyBfOqY_80_P_0_0_2048_1219.jpg" />
+      <file href="story_content/6bF4gKrUjNI_44100_48_0.mp3" />
+      <file href="story_content/66qGfMRjMkO_44100_48_0.mp3" />
+      <file href="story_content/6iBpc2JV0AU_44100_48_0.mp3" />
+      <file href="story_content/6lCR6BEg5x3_44100_48_0.mp3" />
+      <file href="story_content/5Zx19R4R2C7_44100_48_0.mp3" />
+      <file href="story_content/5cC9U1bBhzY_44100_48_0.mp3" />
+      <file href="story_content/5VHMgir5TcT_44100_48_0.mp3" />
+      <file href="story_content/6kOAxnzRYpc_44100_48_0.mp3" />
+      <file href="story_content/5n5IDOAOu5X_44100_48_0.mp3" />
+      <file href="story_content/5bzdudPiw4Z_44100_48_0.mp3" />
+      <file href="story_content/5mnT0X7HLBG_44100_48_0.mp3" />
+      <file href="story_content/6f92iSlwyl6_44100_48_0.mp3" />
+      <file href="mobile/5l3Uj6N0GoB_80_P_20_0_2027_1206.jpg" />
+      <file href="story_content/640YaOAflcj_44100_48_0.mp3" />
+      <file href="story_content/5yNEuFOBjdg_44100_48_0.mp3" />
+      <file href="story_content/5zqdkEEii59_44100_48_0.mp3" />
+      <file href="story_content/6hFQ0HpUQ2C_44100_48_0.mp3" />
+      <file href="mobile/5a5p0O09InG_80_P_0_145_2048_1219.jpg" />
+      <file href="story_content/6GotFTvbtdZ_44100_48_0.mp3" />
+      <file href="mobile/6FbXdBMtkPl_80_P_461_0_999_1366.jpg" />
+      <file href="story_content/6OVS0LoHZW8_44100_48_0.mp3" />
+      <file href="story_content/6bc9pPiUBFG_44100_48_0.mp3" />
+      <file href="story_content/5aBW6dOkeAk_44100_48_0.mp3" />
+      <file href="story_content/5sRCWPJ6UBE_44100_48_0.mp3" />
+      <file href="mobile/5hviILgq344_80_P_0_145_2048_1219.jpg" />
+      <file href="story_content/6cMubIicQQL_44100_48_0.mp3" />
+      <file href="story_content/5aKrl19bjnL_44100_48_0.mp3" />
+      <file href="story_content/67f1skmZmF9_44100_48_0.mp3" />
+      <file href="mobile/6rlIfbcaFFE_80_P_290_214_1251_1154.jpg" />
+      <file href="story_content/61OgMpXd3Rs_44100_48_0.mp3" />
+      <file href="story_content/5zTiuFh61oj_44100_48_0.mp3" />
+      <file href="story_content/6Q2NwEvadU1_44100_48_0.mp3" />
+      <file href="story_content/6FBh8fWOcqg_44100_48_0.mp3" />
+      <file href="story_content/5vpRuSl2gnN_44100_48_0.mp3" />
+      <file href="story_content/662CZDo2YiC_44100_48_0.mp3" />
+      <file href="story_content/6MFMzOFmQiC_44100_48_0.mp3" />
+      <file href="story_content/6h1bWf1IZoI_44100_48_0.mp3" />
+      <file href="mobile/6cBxIpEwtFw_80_P_0_0_1861_1108.jpg" />
+      <file href="story_content/5o5n3yCNdXX_44100_48_0.mp3" />
+      <file href="story_content/6PdmZcLgtHl_44100_48_0.mp3" />
+      <file href="story_content/6jMviZFhrYg_44100_48_0.mp3" />
+      <file href="story_content/5zKQFpaBbXE_44100_48_0.mp3" />
+      <file href="story_content/6YPJThBi2tz_44100_48_0.mp3" />
+      <file href="story_content/6V3QMiqPtPu_44100_48_0.mp3" />
+      <file href="story_content/5xDXxgTQqyI_44100_48_0.mp3" />
+      <file href="story_content/5xLP5wolzch_44100_48_0.mp3" />
+      <file href="story_content/62om0OLJ6Fl_44100_48_0.mp3" />
+      <file href="story_content/66b6rbwaEPb_44100_48_0.mp3" />
+      <file href="story_content/62By2xwUfK3_44100_48_0.mp3" />
+      <file href="story_content/6Pas89fGv6O_44100_48_0.mp3" />
+      <file href="story_content/6lChSXQqKRP_44100_48_0.mp3" />
+      <file href="mobile/69DTDG6KRTi_80_P_0_0_2048_1217.jpg" />
+      <file href="story_content/6hsPNTMm78k_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/665nhn3QlOT.png" />
+      <file href="story_content/6owGu8ezr3M.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Personal Brand Worksheets.pdf" />
+      <file href="story_content/external_files/Pre-Assignment Template.pdf" />
+      <file href="mobile/txt__default_5zOGDuWlmwz.png" />
+      <file href="mobile/txt__default_6jpcDl1rJbi.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cqmyT8yQyb.js" />
+      <file href="html5/data/js/5emTURZozIB.js" />
+      <file href="html5/data/js/5evUKkqsIPI.js" />
+      <file href="html5/data/js/5h13wdYs0gt.js" />
+      <file href="html5/data/js/5jLq2fUK2DV.js" />
+      <file href="html5/data/js/5jQsSiEbRLk.js" />
+      <file href="html5/data/js/5lb6vb0pgeD.js" />
+      <file href="html5/data/js/5lkBpzyQ9JB.js" />
+      <file href="html5/data/js/5m8S9XLNbPf.js" />
+      <file href="html5/data/js/5mpBlghKJb2.js" />
+      <file href="html5/data/js/5qkBRvleGb7.js" />
+      <file href="html5/data/js/5rTUCGKPA8y.js" />
+      <file href="html5/data/js/5vv8YCL1kT0.js" />
+      <file href="html5/data/js/5Y2fFpkxA7u.js" />
+      <file href="html5/data/js/5YFyY3Ruglo.js" />
+      <file href="html5/data/js/60HavQlOych.js" />
+      <file href="html5/data/js/62Al3U0byiA.js" />
+      <file href="html5/data/js/65gCjiZTPYd.js" />
+      <file href="html5/data/js/6B5QK4vvdX3.js" />
+      <file href="html5/data/js/6dhPjdmSCi4.js" />
+      <file href="html5/data/js/6DwCRHlW9cD.js" />
+      <file href="html5/data/js/6G7OsDHRTC6.js" />
+      <file href="html5/data/js/6gDrIZ1qp9d.js" />
+      <file href="html5/data/js/6GEJscyz7Je.js" />
+      <file href="html5/data/js/6IEzxLGxpW4.js" />
+      <file href="html5/data/js/6J55Onx7HUV.js" />
+      <file href="html5/data/js/6JUoVckozfG.js" />
+      <file href="html5/data/js/6kDWg919DBA.js" />
+      <file href="html5/data/js/6kLsDLEgayO.js" />
+      <file href="html5/data/js/6mpW6GpHHoq.js" />
+      <file href="html5/data/js/6nidUkuSo26.js" />
+      <file href="html5/data/js/6nJYXUCi0js.js" />
+      <file href="html5/data/js/6nPB7BGB2AO.js" />
+      <file href="html5/data/js/6OvXul9bZEL.js" />
+      <file href="html5/data/js/6PtTFHlZBsl.js" />
+      <file href="html5/data/js/6VtM78zbEQm.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
